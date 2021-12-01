@@ -3,7 +3,7 @@ server:
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: e-server-git-akshaykemekar-dev.apps.sandbox.x8i5.p1.openshiftapps.com
 
 
 spring:
