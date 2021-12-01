@@ -1,9 +1,6 @@
-server:
-  port: 8999
-
 eureka:
   instance:
-    hostname: e-server-git-akshaykemekar-dev.apps.sandbox.x8i5.p1.openshiftapps.com
+    hostname: e-server-git-akshaykemekar-dev.apps.sandbox.x8i5.p1.openshiftapps.com:8761
 
 
 spring:
